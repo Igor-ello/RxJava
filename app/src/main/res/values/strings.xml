@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RxJava</string>
+    <integer name="com_vk_sdk_AppId">51921704</integer>
+</resources>
